@@ -16,7 +16,7 @@ My work combines:
 * Machine learning systems and MLOps practices
 * Cloud-based system design on AWS
 
-I’m particularly interested in building systems that are **scalable, efficient, and usable in real-world environments**.
+I’m interested in building systems that are scalable, efficient and usable in real-world environments.
 
 ---
 
