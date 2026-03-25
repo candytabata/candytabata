@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Candy Tabata 👋🏾
 
-<!--
-**candytabata/candytabata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science
+☁️ Ex-AWS Cloud Engineer
+📊 Data Engineering & Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a Computer Science Master's student with a background in AWS cloud engineering, focused on building data-driven systems and practical machine learning solutions.
+
+My work combines:
+
+* Data engineering (ETL pipelines, data modelling, SQL)
+* Machine learning systems and MLOps practices
+* Cloud-based system design on AWS
+
+I’m particularly interested in building systems that are **scalable, efficient, and usable in real-world environments**.
+
+---
+
+## 🧠 Current Focus
+
+* Data pipelines and ETL workflows
+* Advanced SQL and data modelling
+* Machine learning in practical applications
+* End-to-end systems combining data and ML
+
+---
